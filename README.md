@@ -1,3 +1,4 @@
+
 # Rock_paper_scissor
 
 The whole game is divided into three steps :
@@ -21,3 +22,4 @@ The whole game is divided into three steps :
 
 - finally on our openCV screen , we created two box (one for user move , other one for computer's move)
 - both moves and result gets printed on screen
+![pic 3](https://user-images.githubusercontent.com/52347680/120887471-bd249600-c610-11eb-86e0-c652f2f340e0.png)
